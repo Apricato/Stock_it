@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Define your base theme and apply the custom font family to the app -->
+    <style name="Theme.Stock_it" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Apply custom font family for the entire app -->
+        <item name="android:fontFamily">@font/plus_jakarta_sans</item>
+    </style>
+
+</resources>
