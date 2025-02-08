@@ -6,7 +6,7 @@ keeping an eye on your restaurants has never been so easy!
 
 Never run out of ingredients last minute during service or have product waste again.
 
-##Features
+## Features
 
 - 🏷️ Tagging systems to quickly browse through availability of all your ingredients
 - 🤝 Automatic shopping list that you can send to your coworkers
